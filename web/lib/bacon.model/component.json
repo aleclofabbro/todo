@@ -1,9 +1,0 @@
-{
-  "name": "bacon.model",
-  "version": "0.1.12",
-  "dependencies":{
-    "baconjs/bacon.js":"*"
-  },
-  "main": "dist/bacon.model.js",
-  "scripts":["dist/bacon.model.js"]
-}
